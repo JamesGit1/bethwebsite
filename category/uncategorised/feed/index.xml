@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorised &#8211; Beth</title>
-	<atom:link href="/category/uncategorised/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://https://jamesgit1.github.io/bethwebsite/category/uncategorised/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://jamesgit1.github.io/bethwebsite/</link>
 	<description></description>
 	<lastBuildDate>Wed, 21 Aug 2024 14:38:44 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/2024/08/21/hello-world/</link>
-					<comments>/2024/08/21/hello-world/#comments</comments>
+		<link>https://https://jamesgit1.github.io/bethwebsite/2024/08/21/hello-world/</link>
+					<comments>https://https://jamesgit1.github.io/bethwebsite/2024/08/21/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[bethradic]]></dc:creator>
 		<pubDate>Wed, 21 Aug 2024 14:38:44 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://https://jamesgit1.github.io/bethwebsite/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/08/21/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://https://jamesgit1.github.io/bethwebsite/2024/08/21/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

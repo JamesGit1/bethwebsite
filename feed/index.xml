@@ -11,7 +11,7 @@
 	<title>Beth Radic</title>
 	<atom:link href="/bethwebsite/feed/" rel="self" type="application/rss+xml" />
 	<link>/bethwebsite/</link>
-	<description>artist &#38; author</description>
+	<description>Artist &#38; Author</description>
 	<lastBuildDate>Wed, 21 Aug 2024 14:38:44 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/bethwebsite/wp-content/uploads/2024/08/cropped-beth-radic-innocence-lost-2022-1-32x32.jpg</url>
+	<title>Beth Radic</title>
+	<link>/bethwebsite/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>/bethwebsite/2024/08/21/hello-world/</link>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Beth Radic</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://bethradic.co.uk/feed/" rel="self" type="application/rss+xml" />
+	<link>http://bethradic.co.uk/</link>
 	<description>Artist &#38; Author</description>
 	<lastBuildDate>Wed, 21 Aug 2024 14:38:44 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/08/cropped-beth-radic-innocence-lost-2022-1-32x32.jpg</url>
+	<url>http://bethradic.co.uk/wp-content/uploads/2024/08/cropped-beth-radic-innocence-lost-2022-1-32x32.jpg</url>
 	<title>Beth Radic</title>
-	<link>/</link>
+	<link>http://bethradic.co.uk/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/2024/08/21/hello-world/</link>
-					<comments>/2024/08/21/hello-world/#comments</comments>
+		<link>http://bethradic.co.uk/2024/08/21/hello-world/</link>
+					<comments>http://bethradic.co.uk/2024/08/21/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[bethradic]]></dc:creator>
 		<pubDate>Wed, 21 Aug 2024 14:38:44 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://bethradic.co.uk/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/08/21/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://bethradic.co.uk/2024/08/21/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
